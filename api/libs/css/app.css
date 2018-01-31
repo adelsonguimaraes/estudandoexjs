@@ -1,0 +1,476 @@
+.icon-positive {
+    background-image: url(../../img/icons/tick.png) !important;
+}
+.icon-negative {
+    background-image: url(../../img/icons/cross.png) !important;
+}
+.icon-edit {
+    background-image: url(../../img/icons/edit_task.png) !important;
+}
+.icon-user {
+    background-image: url(../../img/icons/user.png) !important;
+}
+
+.icon-user-add {
+    background-image: url(../../img/icons/user_add.gif) !important;
+}
+
+.icon-save {
+    background-image: url(../../img/icons/save.gif) !important;
+}
+
+.icon-reset {
+    background-image: url(../../img/icons/stop.png) !important;
+}
+
+.icon-grid {
+    background-image: url(../../img/icons/grid.png) !important;
+}
+
+.icon-add {
+    background-image: url(../../img/icons/add.png) !important;
+}
+.icon-box {
+    background-image: url(../../img/icons/boxicon.png) !important;
+}
+.icon-delete {
+    background-image: url(../../img/icons/delete.png) !important;
+}
+.icon-empresa-add {
+    background-image: url(../../img/icons/building.png) !important;
+}
+.icon-empresa_entrar-add {
+    background-image: url(../../img/icons/building_go.png) !important;
+}
+.icon-imposto-add {
+    background-image: url(../../img/icons/money_add.png) !important;
+}
+.icon-page {
+    background-image:url(../../img/icons/page.png) !important;
+}
+.icon-page-go {
+    background-image:url(../../img/icons/page_go.png) !important;
+}
+.icon-page-delete {
+    background-image:url(../../img/icons/page_delete.png) !important;   
+}
+.icon-eye {
+    background-image:url(../../img/icons/eye.png) !important;
+}
+.icon-filter {
+    background-image:url(../../img/icons/filter.png) !important;
+}
+.icon-lupa {
+    background-image:url(../../img/icons/lupa.png) !important;   
+}
+.icon-process {
+    background-image:url(../../img/icons/process.png) !important;   
+}
+.menu_icon_notafiscal {
+    background-image:url(../../img/icons/nfe.png) !important;   
+}
+.menu_icon_notafiscal {
+    background-image:url(../../img/icons/nfe.png) !important;   
+}
+.key {
+background-image:url('../../img/icons/key.png') !important;
+}
+.key-go {
+	background-image: url('../../img/icons/key_go.png') !important;
+}
+.config {
+background-image:url('../../img/icons/cog.png') !important;
+}
+.cancel {
+	background-image: url('../../img/icons/cancel.png') !important;
+}
+.logout {
+	background-image: url('../../img/icons/door_in.png') !important;
+}
+.icon_form_pessoafisica {
+	background-image: url('../../img/icons/report_user.png') !important;
+}
+/** ICONES DO MENU **/
+.menu_icon_adm {
+    background-image: url(../../img/icons/shield.png) !important;
+}
+.menu_icon_crm {
+    background-image: url(../../img/icons/crm.png) !important;
+}
+.menu_icon_rel {
+    background-image: url(../../img/icons/report.png) !important;
+}
+.menu_icon_pessoajuridica {
+    background-image: url(../../img/icons/building.png) !important;
+}
+.menu_icon_empresa {
+    background-image: url(../../img/icons/building.png) !important;
+}
+.menu_icon_perfil {
+    background-image: url(../../img/icons/images.png) !important;
+}
+.menu_icon_contabanco {
+    background-image: url(../../img/icons/lock.png) !important;
+}
+.menu_icon_pais {
+    background-image: url(../../img/icons/world.png) !important;
+}
+.menu_icon_local {
+    background-image: url(../../img/icons/map.png) !important;
+}
+.menu_icon_lead {
+    background-image: url(../../img/icons/telephone.png) !important;
+}
+.menu_icon_historicolead {
+    background-image: url(../../img/icons/phone.png) !important;
+}
+.menu_icon_contato {
+    background-image: url(../../img/icons/phone.png) !important;
+}
+.menu_icon_pf {
+    background-image: url(../../img/icons/vcard.png) !important;
+}
+.menu_icon_banco {
+    background-image: url(../../img/icons/money.png) !important;
+}
+.menu_icon_setor {
+    background-image: url(../../img/icons/application_view_tile.png) !important;
+}
+.menu_icon_statusservico {
+    background-image: url(../../img/icons/images.png) !important;
+}
+.menu_icon_tipocontato {
+    background-image: url(../../img/icons/telephone.png) !important;
+}
+.menu_icon_tipoendereco {
+    background-image: url(../../img/icons/phone.png) !important;
+}
+.menu_icon_operadoracontato {
+    background-image: url(../../img/icons/report.png) !important;
+}
+.menu_icon_servico {
+    background-image: url(../../img/icons/images.png) !important;
+}
+.menu_icon_unidademedida {
+    background-image: url(../../img/icons/lock.png) !important;
+}
+.menu_icon_ocupacao {
+    background-image: url(../../img/icons/vcard.png) !important;
+}
+.menu_icon_funcionario {
+    background-image: url(../../img/icons/vcard.png) !important;
+}
+.menu_icon_localidade {
+    background-image: url(../../img/icons/world.png) !important;
+}
+.menu_icon_parametroservico {
+    background-image: url(../../img/icons/cog.png) !important;
+}
+.menu_icon_contrato {
+    background-image: url(../../img/icons/money.png) !important;
+}
+.menu_icon_pessoafisica {
+    background-image: url(../../img/icons/user_gray.png) !important;
+}
+.meunu_icon_perfil {
+    background-image: url(../../img/icons/report_user.png) !important;
+}
+.menu_icon_usuario {
+    background-image: url(../../img/icons/user_gray.png) !important;
+}
+.menu_icon_imposto {
+    background-image: url(../../img/icons/coins.png) !important;
+}
+.menu_icon_logsistema{
+    background-image: url(../../img/icons/script.png) !important;
+}
+.menu_icon_cliente{
+    background-image: url(../../img/icons/user_edit.png) !important;
+}
+.menu_icon_combo{
+    background-image: url(../../img/icons/shield.png) !important;
+}
+.menu_icon_modalidadeservico{
+    background-image: url(../../img/icons/folder_table.png) !important;
+}
+.menu_icon_contratomotivoversao{
+    background-image: url(../../img/icons/preview-right.gif) !important;
+}
+.menu_icon_statuslead{
+    background-image: url(../../img/icons/application_view_tile.png) !important;
+}
+.menu_icon_tipoandamento{
+    background-image: url(../../img/icons/application_view_tile.png) !important;
+}
+.menu_icon_tipoparametro{
+    background-image: url(../../img/icons/cog.png) !important;
+}
+.menu_icon_tipoatividade{
+    background-image: url(../../img/icons/application_view_tile.png) !important;
+}
+.menu_icon_produto{
+    background-image: url(../../img/icons/edit_task.png) !important;
+}
+.menu_icon_atividade{
+    background-image: url(../../img/icons/phone.png) !important;
+}
+.menu_icon_boleto{
+    background-image: url(../../img/icons/boleto.png) !important;
+}
+.menu_icon_notafiscal {
+    background-image:url(../../img/icons/nfe.png) !important;   
+}
+.menu_icon_codigofiscal{
+    background-image: url(../../img/icons/money_add.png) !important;
+}
+.menu_icon_classificacaoitem{
+    background-image: url(../../img/icons/edit_task.png) !important;
+}
+.menu_icon_retornocodigomovimento{
+    background-image: url(../../img/icons/script.png) !important;
+}
+.menu_icon_upload {
+    background-image: url(../../img/icons/page_white_get.png) !important;
+}
+.icon-limpar {
+    background-image: url(../../img/icons/broom.png) !important;
+}
+.excel {
+    background-image:url(../../img/icons/ms-excel.gif) !important;
+}
+.pdf {
+    background-image:url(../../img/icons/pdf_icon.gif) !important;
+}
+.icon-sendemail {
+    background-image:url(../../img/icons/sendemail.png) !important;
+}
+
+/** Fim icones do MENU **/
+
+/*-- Tela de Boas Vindas - Autor: Adelson --*/
+.mask.splashscreen{
+	background-color: #FFF;
+	opacity: 0;
+}
+
+.x-mask-msg.splashscreen,
+.x-mask-msg.splashscreen div {
+	font-size: 16px;
+	font-weight: bold;
+	color:#000;
+	padding: 30px 5px 5px 5px;
+	border: none;
+	background-color: transparent;
+	background-position: top center;
+}
+
+/* .x-message-box .x-box-inner{ */
+/* 	min-height: 110px !important; */
+/* } */
+
+/** message box */
+.msg .x-box-mc {
+    font-size:14px;
+}
+#msg-div {
+    position:absolute;
+    left:35%;
+    top:10px;
+    width:300px;
+    z-index:20000;
+}
+#msg-div .msg {
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    background: #d4eeca;
+    border: 2px solid #ccc;
+    margin-top: 2px;
+    padding: 10px 15px;
+    color: #555;
+}
+#msg-div .msg h3 {
+    margin: 0 0 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+#msg-div .msg p {
+    margin: 0;
+}
+
+
+
+.x-splash-icon{
+    background: url(../../img/sencha-logo.jpg) no-repeat !important;
+    margin-top: -160px;
+	margin-left: -10px;
+	margin-bottom: -30px;
+	height: 180px;
+	width: 350px;
+}
+
+/*-- Caixa de Ferramenta do CapsLock --*/
+.capslock{
+	background: url('../../img/icons/bullet_error.png') no-repeat center left;
+    padding: 2px;
+    padding-left: 20px;
+	font-weight: 700;
+}
+
+/*-- Icons de menu --*/
+ .sitemap{
+ 	background-image: url('../../img/icons/folder_table.png'); !important;
+ }
+ .home{
+ 	background-image: url('../../img/icons/house.png'); !important;
+ }
+ .menu_admin{
+ 	background-image: url('../../img/icons/folder_user.png'); !important;
+ }
+ .menu_groups{
+ 	background-image: url('../../img/icons/group_key.png'); !important;
+ }
+ .menu_users{
+ 	background-image: url('../../img/icons/group_edit.png'); !important;
+ }
+
+
+/*-- Posi��es do Form no Panel --*/
+.view{
+    background-image: url('../../img/icons/application_view_tile.png'); !important;
+}
+.hide{
+    background-image: url('../../img/icons/preview-hide.gif'); !important;
+}
+.bottom{
+    background-image: url('../../img/icons/preview-bottom.gif'); !important;
+}
+.right{
+    background-image: url('../../img/icons/preview-right.gif'); !important;
+} 
+
+/*-- Cabe�alho --*/
+ #titleHeader{
+ 	color: #000;
+ 	font-size: 20px;
+ 	font-weight: bold;
+ 	font-family: 'Lucida Grande', Arial, Sans;
+ }
+ 
+ /*-- --*/
+ .imagem_logo{
+ 	background: url(../../img/icons/logocabecalho.png);
+	width: 168px;
+	height: 45px;
+	color:#900;
+	margin-top: -1;
+ }
+ 
+ /*-- Sele��o Empresa --*/
+ 
+#img-chooser-dlg .details {
+    text-align: center;
+}
+
+#img-chooser-dlg .details-info {
+    border-top: 1px solid #cccccc;
+    font: 11px Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    padding-top: 5px;
+    text-align: left;
+}
+
+#img-chooser-dlg .details-info b {
+    color: #555555;
+    display: block;
+    margin-bottom: 4px;
+    margin-left: 5px;
+}
+
+#img-chooser-dlg .details-info span {
+    display: block;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+#img-chooser-view {
+    background: white;
+    font: 11px Arial, Helvetica, sans-serif;
+}
+
+#img-chooser-view .thumb {
+    padding: 3px;
+}
+
+#img-chooser-view .thumb-wrap {
+    float: left;
+    margin: 4px;
+    margin-right: 0;
+    padding: 5px;
+}
+
+#img-chooser-view .thumb-wrap span {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+
+#img-chooser-view .x-view-over {
+    border:1px solid #dddddd;
+    background-color: #efefef;
+    padding: 4px;
+}
+
+#img-chooser-view .x-item-selected {
+    background: #DFEDFF;
+    border: 1px solid #6593cf;
+    padding: 4px;
+}
+
+#img-chooser-view .x-item-selected .thumb {
+    background:transparent;
+}
+
+#img-chooser-view .x-item-selected span {
+    color:#1A4D8F;
+}
+
+#img-chooser-view .loading-indicator {
+    font-size:11px;
+    background-image:url('../../img/icons/loading.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left:20px;
+    margin:10px;
+}
+
+#images img {
+    margin: 20px;
+}
+
+/*-- CSS Log Sistema Detalhes --*/
+
+.patient-source {
+    cursor: pointer;
+}
+
+td.patient-label {
+    background-color: #ddd;
+    border: 1px solid #bbb;
+    font-weight: bold;
+    text-align: right;
+    width: 100px;
+    padding: 0px 3px 0px 0px;
+}
+
+.patient-view table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
+.patient-view td {
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+}
+.patient-name2{
+	border: 1px solid #ff0000;
+}
